@@ -30,7 +30,6 @@ This is a simple ASP.NET Core MVC and Web API project for managing Teachers data
 ## Testing
 
 - Used Postman and browser to test API and web pages.
-- Screenshots included in submission PDF.
 
 ---
 
